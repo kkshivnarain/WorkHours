@@ -2,7 +2,7 @@
 Python pandas based time difference calculation in business hours
 
 Installation
-Direct Download from https://github.com/kkshivnarain/WorkHours/archive/0.1.tar.gz
+Direct Download from https://github.com/kkshivnarain/WorkHours/archive/0.2.tar.gz
 
 
 
