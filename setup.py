@@ -1,13 +1,13 @@
 from distutils.core import setup
 setup(
   name = 'WorkHours',
-  packages = ['WorkHours'], # this must be the same as the name above
+  packages = ['WorkHours'], 
   version = '0.1',
   description = 'Time difference calculation in business hours',
   author = 'KK',
   author_email = 'kkshivnarain@gmail.com',
-  url = 'https://github.com/kkshivnarain/WorkHours', # use the URL to the github repo
-  download_url = 'https://github.com/kkshivnarain/WorkHours/archive/0.2.tar.gz', # I'll explain this in a second
-  keywords = ['Business Hours', 'Time Difference'], # arbitrary keywords
+  url = 'https://github.com/kkshivnarain/WorkHours', 
+  download_url = 'https://github.com/kkshivnarain/WorkHours/archive/0.2.tar.gz', 
+  keywords = ['Business Hours', 'Time Difference'], 
   classifiers = [],
 )
