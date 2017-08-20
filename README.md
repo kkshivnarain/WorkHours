@@ -6,7 +6,7 @@ Direct Download from https://github.com/kkshivnarain/WorkHours/archive/0.2.tar.g
 
 
 
-Sample code
+Example code
 from WorkHours import WorkHours
 wh=WorkHours() #initialize the WorkHours class
 wh.holiday_calendar("2017/7/3") #Define holidays one at a time 
